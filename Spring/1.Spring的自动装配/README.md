@@ -706,7 +706,11 @@ public void processGroupImports() {
 
 ### 4.3. 总结
 
-SpringBoot在启动中，`AutoConfigurationImportSelector`在被加载中，调用的不是selectImports方法， 而是直接被调用了getAutoConfigurationEntry方法。 骚年，你可长点心吧！
+SpringBoot在启动中，`AutoConfigurationImportSelector`在被加载中，调用的不是selectImports方法， 而是直接被调用了getAutoConfigurationEntry方法。
+
+
+
+引用 : 4.1 4.2 4.3 https://www.cnblogs.com/lifacheng/p/12971628.html
 
 
 
