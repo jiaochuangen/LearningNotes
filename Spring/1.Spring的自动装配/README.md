@@ -384,7 +384,7 @@ private void fireAutoConfigurationImportEvents(List<String> configurations,
 
 在前面的环节里只是最终要确定哪些类需要被装配，在SpringBoot时何时处理这些自动装配的类呢？下面我们简要的分析一下：
 
-![](D:\Users\lenovo\img\1627635078(1).png)
+![debug run()](images/debug run().png)
 
 1. SpringApplication.run();
 2. 
