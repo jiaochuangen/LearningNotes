@@ -21,7 +21,7 @@ value：指定bean的id。如果不指定value属性，默认bean的id是当前�
 **作用：**
 
 ```
-作用上与@Component。一般用于表现层的注解。
+作用上与@Component。一般用于表现层的注解。 
 ```
 
 **属性：**
